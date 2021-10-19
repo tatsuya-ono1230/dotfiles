@@ -316,3 +316,5 @@ source ~/.zplug/init.zsh
 
 # source ~/.enhancd/init.sh
 zplug "b4b4r07/enhancd", use:init.sh
+
+zplug load # --verbose
